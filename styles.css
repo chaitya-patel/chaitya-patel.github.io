@@ -1,17 +1,6 @@
-* {
-  margin:0px;
-  padding:0px;
-}
+position: relative;
+width: 1920px;
+height: 1080px;
+overflow-y: scroll;
 
-#octocat {
-  display: block;
-  width:384px;
-  margin: 50px auto;
-}
-
-p {
-  display: block;
-  width: 400px;
-  margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
-}
+background: linear-gradient(180deg, #F2827F 0%, #704F8D 100%);
